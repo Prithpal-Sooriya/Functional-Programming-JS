@@ -1,0 +1,10 @@
+{
+  "name": "functiona-programming-js",
+  "version": "1.0.0",
+  "description": "This is my practice with FP in JS. Really liking map, filter and reduce - but time to get serious about it.",
+  "author": "Prithpal Sooriya",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
