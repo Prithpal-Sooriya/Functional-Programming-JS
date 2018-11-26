@@ -1,0 +1,1 @@
+# Pure Error Handling (Either / Or)
